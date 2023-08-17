@@ -1,0 +1,18 @@
+Exercicio 3 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+POV (Ponto de vendas)
+Desenvolver no scratch e no node um APP para pagamento
+(PDV) de um comércio
+Modelo:
+Total: 300.00
+Desconto: 10%
+Total com desconto: 270,00 
+Valor pago em dinheiro 300,00
+Troco: 30,00
+
+------------------------------------------------------------------------------------------
+Dica 
+.replace(",",".") //Substitui um caracter por outro
+
+Exemplos:
+.replace("yes","y")
+.replace("no","n")

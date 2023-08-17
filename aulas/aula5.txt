@@ -1,0 +1,30 @@
+Conversor de temperatura:Ç
+Fahrenheit para Celsius
+
+            Fahrenheit
+Celsius =  _______________
+                1,8
+
+// Variavéis 
+c,f (númericas)
+
+//entrada
+Fahrenheit
+
+//Processamento
+c = (f - 32) / 1.8
+
+//Saida
+c
+
+--------------------------------------------------------------------------------------
+Dica:
+para formatar o resultado em números específicos de casas 
+decimais usamos: .toFixed(2)
+(2) Duas casas decimais após o ponto 
+
+---------------------------------------------------------------------------------------
+Excercicio 2 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Regra de 3 (Calculo de Porcentagem)
+Criar no scratch e no JS um App para fazer o Calculo da %, 
+Seguindo o modelo 
